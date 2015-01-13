@@ -1,3 +1,5 @@
+XX
+
 [The Simple PHP Framework](http://github.com/tylerhall/simple-php-framework/) is a pragmatic approach to building websites with PHP 5. It's geared towards web design shops and freelance programmers looking for a common foundation to quickly bring web projects to life. Without getting too technical, SPF follows the [no-framework Framework](http://toys.lerdorf.com/archives/38-The-no-framework-PHP-MVC-framework.html) method coined by Rasmus Lerdorf -- with a little [Active Record](http://en.wikipedia.org/wiki/Active_record_pattern) thrown in for good measure.
 
 ### Project History ###
